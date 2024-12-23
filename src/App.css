@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+.input{
+  background: #c4dca5;
+  font-size: 20px;
+  border:none;
+  width: 500px;
+  padding: 20px;
+  margin-right: 20px;
+  border-radius: 20px;
+}
+.button{
+  background: #c4dca5;
+  font-size: 20px;
+  border:none;
+  width:100px;
+  padding: 20px;
+  border-radius: 20px;
+  cursor:pointer;
+}
+button:hover{
+  background-color: #94de32;
+}
+hr{
+  margin-top: 40px;
+  width:700px;
+}
+
+.list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  padding:20px;
+  border-radius: 5px; 
+}
+
+.list li{
+  background-color: #c4dca5;
+  list-style-type:none;
+  font-size: 20px;
+  margin-right: 20px;
+  padding: 15px;
+  border-radius: 20px;
+}
+.del-button{
+  background: #f66f6a;
+  font-size: 20px;
+  border:none;
+  width:100px;
+  padding: 20px;
+  border-radius: 20px;
+  cursor:pointer;
+}
+.del-button:hover{
+  background-color: #d71111;
+}
